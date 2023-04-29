@@ -1,6 +1,6 @@
 {
   "name": "world-cities-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON dataset of world cities sourced from SimpleMaps World Cities Database, including geographic coordinates and administrative information, with a script to generate data from a CSV source.",
   "main": "index.js",
   "scripts": {

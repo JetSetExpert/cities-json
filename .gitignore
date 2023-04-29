@@ -1,9 +1,6 @@
 # Dependency directories
 node_modules/
 
-# Output file
-/data/cities.json
-
 # Input file
 /data/worldcities.csv
 
