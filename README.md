@@ -1,4 +1,4 @@
-# cities-json
+# world-cities-json
 
 An NPM module that contains a JSON array of world cities sourced from the [SimpleMaps World Cities Database](https://simplemaps.com/data/world-cities), created by the team at [Jet Set Expert](https://jetsetexpert.com).
 
@@ -81,20 +81,20 @@ Data is sourced from the [SimpleMaps World Cities Database](https://simplemaps.c
 
 [Jet Set Expert](https://jetsetexpert.com)  
 [cities-json on GitHub](https://github.com/jetsetexpert/cities-json)  
-[cities-json on NPM](https://www.npmjs.com/package/cities-json)  
-[cities-json on Aliyun](https://developer.aliyun.com/mirror/npm/package/cities-json)  
-[cities-json on TAONPM](https://npmmirror.com/package/cities-json)  
-[cities-json on jsDlivr](https://www.jsdelivr.com/package/npm/cities-json)  
-[cities-json on Snyk](https://snyk.io/advisor/npm-package/cities-json)  
-[cities-json on Libraries.io](https://libraries.io/npm/cities-json)  
-[cities-json on RunKit](https://npm.runkit.com/cities-json)  
-[cities-json on npm trends](https://www.npmtrends.com/cities-json)  
-[cities-json on Package Phobia](https://packagephobia.com/result?p=cities-json)  
-[cities-json on Skypack](https://www.skypack.dev/view/cities-json)  
-[cities-json on CNPM](https://cnpmjs.org/package/cities-json)  
-[cities-json on githubmemory](https://githubmemory.com/repo/javascriptutils/cities-json)  
-[cities-json on npm.io](https://npm.io/package/cities-json)  
-[cities-json on Pkg Stats](https://www.pkgstats.com/pkg:cities-json)
+[world-cities-json on NPM](https://www.npmjs.com/package/world-cities-json)  
+[world-cities-json on Aliyun](https://developer.aliyun.com/mirror/npm/package/world-cities-json)  
+[world-cities-json on TAONPM](https://npmmirror.com/package/world-cities-json)  
+[world-cities-json on jsDlivr](https://www.jsdelivr.com/package/npm/world-cities-json)  
+[world-cities-json on Snyk](https://snyk.io/advisor/npm-package/world-cities-json)  
+[world-cities-json on Libraries.io](https://libraries.io/npm/world-cities-json)  
+[world-cities-json on RunKit](https://npm.runkit.com/world-cities-json)  
+[world-cities-json on npm trends](https://www.npmtrends.com/world-cities-json)  
+[world-cities-json on Package Phobia](https://packagephobia.com/result?p=world-cities-json)  
+[world-cities-json on Skypack](https://www.skypack.dev/view/world-cities-json)  
+[world-cities-json on CNPM](https://cnpmjs.org/package/world-cities-json)  
+[world-cities-json on githubmemory](https://githubmemory.com/repo/javascriptutils/world-cities-json)  
+[world-cities-json on npm.io](https://npm.io/package/world-cities-json)  
+[world-cities-json on Pkg Stats](https://www.pkgstats.com/pkg:world-cities-json)
 
 ## Related Packages
 
