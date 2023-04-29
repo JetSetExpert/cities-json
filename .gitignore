@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Output file
+/data/cities.json
+
+# Input file
+/data/worldcities.csv
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*

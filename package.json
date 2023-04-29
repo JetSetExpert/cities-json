@@ -1,0 +1,32 @@
+{
+  "name": "cities-json",
+  "version": "1.0.0",
+  "description": "A JSON dataset of world cities sourced from SimpleMaps World Cities Database, including geographic coordinates and administrative information, with a script to generate data from a CSV source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetSetExpert/cities-json.git"
+  },
+  "keywords": [
+    "cities",
+    "city",
+    "geo",
+    "location",
+    "data",
+    "dataset",
+    "database"
+  ],
+  "author": "Jet Set Expert (jetsetexpert.com)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/JetSetExpert/cities-json/issues"
+  },
+  "homepage": "https://jetsetexpert.com",
+  "devDependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
